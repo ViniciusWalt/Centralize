@@ -1,0 +1,8 @@
+{
+  "name": "Centralize 1",
+  "description": "Um bloco de notas elegante com assistente local de insights inteligente de IA por detecção de temas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
